@@ -7,5 +7,5 @@ There are roles. The user sees his events, the admin sees all the events.
 dummy data. But the axios connection to the server is prepared. Remember that when connecting to a real server, you need to remove the TimeOut.
 
 For SignIn use 
-admin or Juan, Roma, Ana
-"password": "123"
+Userneme: admin or Juan, Roma, Ana
+Password: 123
