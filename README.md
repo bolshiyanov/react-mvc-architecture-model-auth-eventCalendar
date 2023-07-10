@@ -10,3 +10,7 @@ dummy data. But the axios connection to the server is prepared. Remember that wh
 For SignIn use 
 Userneme: admin or Juan, Roma, Ana
 Password: 123
+
+
+https://github.com/bolshiyanov/react-mvc-architecture-model-auth-eventCalendar/assets/77061059/82640215-78bc-4312-a821-0b6d09e2ccd0
+
