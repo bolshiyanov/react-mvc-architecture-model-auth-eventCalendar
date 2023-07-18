@@ -1,7 +1,7 @@
 # This example implements the foundation for a medium or large application based on the MVC architecture.
 Link: https://react-mvc-auth-calendar-example.netlify.app
 
-## Stack:React + typescript + Redux + Redux-Thunk + Axios + AntDisign 
+## Stack: React + typescript + Redux + Redux-Thunk + Axios + LocalStorage + AntDisign 
 On this basis, you can create new components, pages, modules.
 The application will remain transparent. In the example, there are two routes: for registration and for creating an event calendar.
 There are roles. The user sees his events, the admin sees all the events. 
